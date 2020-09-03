@@ -1,9 +1,9 @@
 db:
   host: 'localhost'
-  username: 'salimslimani'
-  password: ''
+  username: 'yourusername'
+  password: 'yourpassword'
   synchronize: true
   logging: true
 
 jwt:
-  secret: 'zexp5zxh'
+  secret: 'secretkey'
